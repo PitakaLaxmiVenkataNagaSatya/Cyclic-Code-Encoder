@@ -14,5 +14,6 @@ This Python application provides a graphical user interface (GUI) for encoding b
 
 ## 📷 Screenshot
 
-![image1](https://github.com/PitakaLaxmiVenkataNagaSatya/Cyclic-Code-Encoder/blob/main/image1.png?raw=true)
+- ![image1](https://github.com/PitakaLaxmiVenkataNagaSatya/Cyclic-Code-Encoder/blob/main/image1.png?raw=true)
 
+- ![image2](https://github.com/PitakaLaxmiVenkataNagaSatya/Cyclic-Code-Encoder/blob/main/image2.png?raw=true)
